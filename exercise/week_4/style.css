@@ -1,0 +1,18 @@
+body{font-family: 'Gluten', cursive;background-color: #01A7C2;color: #801A86;}
+h1{font-size: 3em;}
+h2{font-size: 1.5em;color: #A3BAC3;}
+h3{font-size: 1.5em;color: #A3BAC3;}
+div {
+  width: 400px;
+  padding: 10px;
+  border: 5px solid skyblue;
+  margin: 0;
+}
+div class{
+	width: 100px;
+	padding: 10px;
+	border: 5px solid skyblue;
+	margin: 0;
+}
+
+p{font-weight: 600;}
